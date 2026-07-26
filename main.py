@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+print("helal") 
 st.set_page_config(page_title="Interactive Dashboard", layout="wide")
 st.title("📊 Interactive Dashboard")
 st.caption("This demo shows a simple Python dashboard with filters and charts.")
